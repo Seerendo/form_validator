@@ -1,19 +1,12 @@
 # form_validator
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Validaciones de formularios con la ayuda de change_notifiers de provider y GlobalKey
 
-## Getting Started
+## Resources
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter 3.13
+- Build Context Synchronously warning: https://stackoverflow.com/questions/68871880/do-not-use-buildcontexts-across-async-gaps
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Libraries
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- provider: ^6.0.5
